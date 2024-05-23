@@ -4,5 +4,11 @@
 
 #ifndef UNTITLED6_QUEUE_H
 #define UNTITLED6_QUEUE_H
+int isQueueEmpty(void);
+int isQueueFull(void);
+int remove(void);
+int first(void);
+void add(int val);
+
 
 #endif //UNTITLED6_QUEUE_H
